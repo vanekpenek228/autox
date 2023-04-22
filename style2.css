@@ -1,0 +1,12 @@
+.DIV
+main1{
+    border:2px solid black;
+    padding: 10px;
+    }
+    main1{
+    border:2px solid black;
+    margin:20px;
+    }
+    input{margin-left: 20px;}
+    label{border:2px solid red}
+    p{text-indent: 20px;}

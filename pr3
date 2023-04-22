@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <META http-equiv="Content-Type"Content="text/html;charset=utf-8">
+        <TITLE>Что такое CMS </TITLE>
+        <style>
+            h1{font-family: Arial; color: blue;text-align:center}
+            p{font-family: 'Times New Roman', Times, serif; font-size: 24px; text-align: justify; color: yellow;}
+        </style>
+   
+</head>
+ <body>
+    <div>   
+    <P>CMS - "система управления контентом"</p>
+    <p> Движок - написание PHP- программистами основатдля сайта, </p>
+    <p>с помощью которой вы сможете управлять сайтом (добовлять контент, менять пункты, меню и т.п.)</p>
+    <p>не зная HTML и CSS </p>
+    </div>  
+    <div>
+<p>Однако для того чтобы сделать сайт с помощью CMS потребуются услуги и программистамиста</p> 
+    <p> и дизайнера, и верстальщика. И капиталовложения.</p> 
+</div>
+<div>
+            <P><center><h1>Какие бывают CMS </h1></center></P>
+<p>Бывают различные системы управления контентом </p>
+<p>для интернет - магазинов, для блогов, для формул и т.д. </p>
+</div>
+<div>
+<P><center><h1>Примеры CMS </h1></center></P>
+<p>Примеры популярных CMS Jomia , WordPress, PhpBB</p>
+<p>CMS-ки бывают платные и бесплатные</p>
+</div>
+</body>
+</html>

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Формы регистрации пользователя</title>
+
+<style>
+.DIV{
+border:3px solid black;
+padding:10px;
+display: inline-block;
+}
+</style>
+</head>
+<body>
+<div class="DIV">
+<form>
+<table>
+    <tr>
+<td><label id="1">Ваше имя:</label></td>
+    <td><input for="1" type="text"><br> </td>
+</tr>
+<tr>
+    <td><label id="2">Пароль:</label></td> 
+        <td><input for="2" type="password"><br></td>  
+</tr>
+<tr>
+    <td><label id="3">Возраст:</label> </td>
+        <td><input for="3" type="number"><br></td>
+</tr>
+<tr>
+    <td><label>Пол:</label> </td>
+        <td><label id="4">Мужской</label>  <input name="radio" for="4" type="radio">
+            <label id="4">Женский</label>  <input name="radio" for="4" type="radio"><br></td>
+</tr>
+<tr>
+    <td><label>Ваши увлечения:</label></td>
+        <td><label>Музыка</label> <input type="checkbox">
+            <label>Видео</label> <input type="checkbox">
+                <label>Рисование</label> <input type="checkbox"><br></td>
+            </tr>
+            <tr>
+                <td><label>Ваша страна:</label></td>
+
+            <td><select>
+    <option> </option><
+<option>Россия</option>
+<option>USA</option>
+</td>
+<tr>
+</select><br>
+<td><label>Ваш город:</label></td>
+<td><select>
+<option> </option>
+<option>Нижнний Новгород</option>
+<option>Шахунья</option>
+</select></td>
+</tr>
+<tr>
+</select><br>
+<td><label>Кратко о себе:</label></td>
+<td><textarea placeholder="Краткая информация о ваших увлечениях">
+</textarea><br> </td>
+</tr>
+<tr>
+    <td></td>
+    <td><input type="reset" value="Отменить ввод">
+    <input type="submit" value="Данные подтверждаю"></td>
+</tr>
+</form>
+</div>
+</body>
+</html>
